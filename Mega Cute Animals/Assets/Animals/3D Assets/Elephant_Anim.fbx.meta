@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: d18e7f8635ef0b34a91a680b626af22f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: elephant
+    100002: //RootNode
+    100004: elephant_head
+    100006: elephant_L_ear01
+    100008: elephant_L_ear02
+    100010: elephant_L_ear03
+    100012: elephant_L_ear04
+    100014: elephant_LB_leg01
+    100016: elephant_LB_leg02
+    100018: elephant_LB_leg03
+    100020: elephant_LF_leg01
+    100022: elephant_LF_leg02
+    100024: elephant_LF_leg03
+    100026: elephant_LF_leg04
+    100028: elephant_neck
+    100030: elephant_nose01
+    100032: elephant_nose02
+    100034: elephant_nose03
+    100036: elephant_nose04
+    100038: elephant_nose05
+    100040: elephant_nose06
+    100042: elephant_nose07
+    100044: elephant_R_ear01
+    100046: elephant_R_ear02
+    100048: elephant_R_ear03
+    100050: elephant_R_ear04
+    100052: elephant_RB_leg01
+    100054: elephant_RB_leg02
+    100056: elephant_RB_leg03
+    100058: elephant_RF_leg01
+    100060: elephant_RF_leg02
+    100062: elephant_RF_leg03
+    100064: elephant_RF_leg04
+    100066: elephant_spine01
+    100068: elephant_spine02
+    100070: elephant_spine03
+    100072: elephant_tail01
+    100074: elephant_tail02
+    100076: elephant_tail03
+    100078: elephant_tail04
+    100080: elephant_tail05
+    100082: elephant_tail06
+    100084: elephant_tummy01
+    100086: elephant_tummy02
+    400000: elephant
+    400002: //RootNode
+    400004: elephant_head
+    400006: elephant_L_ear01
+    400008: elephant_L_ear02
+    400010: elephant_L_ear03
+    400012: elephant_L_ear04
+    400014: elephant_LB_leg01
+    400016: elephant_LB_leg02
+    400018: elephant_LB_leg03
+    400020: elephant_LF_leg01
+    400022: elephant_LF_leg02
+    400024: elephant_LF_leg03
+    400026: elephant_LF_leg04
+    400028: elephant_neck
+    400030: elephant_nose01
+    400032: elephant_nose02
+    400034: elephant_nose03
+    400036: elephant_nose04
+    400038: elephant_nose05
+    400040: elephant_nose06
+    400042: elephant_nose07
+    400044: elephant_R_ear01
+    400046: elephant_R_ear02
+    400048: elephant_R_ear03
+    400050: elephant_R_ear04
+    400052: elephant_RB_leg01
+    400054: elephant_RB_leg02
+    400056: elephant_RB_leg03
+    400058: elephant_RF_leg01
+    400060: elephant_RF_leg02
+    400062: elephant_RF_leg03
+    400064: elephant_RF_leg04
+    400066: elephant_spine01
+    400068: elephant_spine02
+    400070: elephant_spine03
+    400072: elephant_tail01
+    400074: elephant_tail02
+    400076: elephant_tail03
+    400078: elephant_tail04
+    400080: elephant_tail05
+    400082: elephant_tail06
+    400084: elephant_tummy01
+    400086: elephant_tummy02
+    2100000: Elephant_D
+    4300000: elephant
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: elephant
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Elephant_D
+    second: {fileID: 2800000, guid: 4b68a92b987ef1f4a97b828d4c183d1d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
